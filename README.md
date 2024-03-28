@@ -1,3 +1,3 @@
 # RadioTools
 
-Python scripts for the analysis of radio astronomy data.
+Python scripts for the analysis of radio astronomy data by Alessandro Benati.
