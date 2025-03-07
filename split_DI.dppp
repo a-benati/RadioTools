@@ -1,0 +1,5 @@
+msin=/data/abell_3667/msfiles/1685906777_sdp_l0-Abell3667-corr_avg_DP3.ms
+msout=/data/abell_3667/msfiles/1685906777_sdp_l0-Abell3667-corr_avg_DP3_splitDATA.ms
+steps=[]
+msin.datacolumn=CORRECTED_DATA
+msout.datacolumn=DATA

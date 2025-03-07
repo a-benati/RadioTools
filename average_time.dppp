@@ -1,0 +1,6 @@
+msin=/data/abell_3667/msfiles/1685906777_sdp_l0-Abell3667-corr.ms
+msout=/data/abell_3667/msfiles/1685906777_sdp_l0-Abell3667-corr_avg_DP3.ms
+msout.storagemanager=dysco
+steps=[average]
+average.timeresolution=16
+average.freqstep=8
